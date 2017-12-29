@@ -1,0 +1,1 @@
+## Project to test the git commands test eclipse plugin
