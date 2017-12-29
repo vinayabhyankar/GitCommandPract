@@ -1,1 +1,1 @@
-## Project to test the git commands test eclipse plugin
+## Project to test the git commands uisng eclipse plugin
